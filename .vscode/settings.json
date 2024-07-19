@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\anacl\\Documents\\Coding\\VS Code\\Java\\IFBA - Estrutura de Dados\\ClasseParametrizada\\ClasseParametrizada.jar"
+    ]
+}
